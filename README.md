@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Jeremy and I'm a YearUp App Dev student from New Jersey</h2>
+<h2 align="center">Hi 👋! My name is Jeremy and I'm a YearUp App Dev student from New Jersey</h2>
 
 ###
 
@@ -9,14 +9,14 @@
 
 ###
 
-<img align="right" height="150" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExajhsbjZrdmw5YThzZTluYnc4NmgwZTNwZGU2ajl6N2Z1djliZnoxaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT0xeDR5iYp9DWTeVO/giphy.webp"  />
+<img align="right" height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHNnM202dXF6ZHowdWEwY3poMnRvMmEwZGpocTVnanJqNTJoaWM3NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT0xeDR5iYp9DWTeVO/giphy.webp"  />
 
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo"  />
   <img width="12" />
