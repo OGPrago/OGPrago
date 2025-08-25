@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋! My name is Jeremy and I'm a YearUp App Dev student from New Jersey</h2>
+<h2 align="center">Hi 👋! My name is Jeremy and I'm a Developer from New Jersey</h2>
 
 ###
 
